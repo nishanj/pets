@@ -1,0 +1,23 @@
+body{
+  background-color: green;
+}
+html{
+  margin-left: 5%;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5&;
+}
+img{
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align: center;
+  color: darkblue;
+}
+footer{
+  text-align: center;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: 100;
+}
